@@ -20,7 +20,7 @@ Following dependencies have been used to create the model
 ## Output Prediction
 The model will output the predicted price for the given house size.
 
-
+<img src="https://github.com/sijalalyy/sijalalyy/blob/main/prediction.png">
 
 
 ## Dataset
