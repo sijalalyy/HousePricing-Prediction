@@ -19,8 +19,9 @@ Following dependencies have been used to create the model
 
 ## Output Prediction
 The model will output the predicted price for the given house size.
+![House Image](prediction.png)
+![House Image](predictions-2.png)
 
-<img src="https://github.com/sijalalyy/sijalalyy/blob/main/prediction.png">
 
 
 ## Dataset
